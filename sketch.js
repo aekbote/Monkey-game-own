@@ -223,7 +223,7 @@ function createFruits(){
 function moneyCollide( monkey, money){
 
   money.remove();
-  score += 1;
+  score += 10;
 
 }
 
